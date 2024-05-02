@@ -1,5 +1,5 @@
 <h1 align="center">Procrastinator man, Gren</h1>
-<h3 align="center">Game Modder that especially likes RTS's</h3>
+<h3 align="center">Game Modder that especially likes RTS games.</h3>
 
 - I’m currently working on [YMCA: Classic](https://github.com/gdigrenadier/Arrakis-Spice-Wars)
 
