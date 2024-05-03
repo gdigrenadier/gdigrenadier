@@ -5,7 +5,7 @@
 
 - I’m also working on [Arrakis: Spice Wars](https://github.com/gdigrenadier/Arrakis-Spice-Wars)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other places im on:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclmp4rklz1mxed0rp9oncgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclmp4rklz1mxed0rp9oncgw" height="30" width="40" /></a>
 </p>
