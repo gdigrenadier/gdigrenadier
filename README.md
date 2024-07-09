@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdigrenadier&label=Profile%20views&color=0e75b6&style=flat" alt="gdigrenadier" /> </p>
 
-- I’m currently working on [YMCA: Classic](https://github.com/gdigrenadier/Arrakis-Spice-Wars)
+- I’m currently working on [YMCA: Classic](https://github.com/gdigrenadier/YMCA-Classic)
 
 - I’m also working on [Arrakis: Spice Wars](https://github.com/gdigrenadier/Arrakis-Spice-Wars)
 
